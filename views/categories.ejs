@@ -1,0 +1,16 @@
+<%- include("header") -%>
+
+<h1>CATEGORIES</h1>
+
+<ul>
+  <% cate.forEach((category) => { %>
+
+      <h4><%= category.title %></h4>
+      <p><%= category.description %></p>
+
+  <% }) %>
+</ul>
+
+
+
+<%- include("footer") -%>

@@ -1,0 +1,66 @@
+  .header {
+    background-color: #C9D6DF;
+
+  }
+  .blog-post {
+    margin-bottom: 20px;
+  }
+
+  .blog-post p {
+    display: inline;
+    margin-right: 10px;
+  }
+
+  .blog-post a {
+    display: inline;
+  }
+
+
+  .header .logo {
+    font-size: 24px;
+    padding: 30px;
+    margin-top: 10px;
+    ;}
+
+  p {
+    padding: 0px;
+    margin-left: 90px;
+    margin-right: 90px;
+  }
+  .content{
+    padding: 20px;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-bottom: 70px;
+  }
+
+
+  h4  {
+    padding: 10px;
+    margin-left: 90px;
+    margin-right: 90px;
+  }
+
+  h1 {
+    padding: 60px;
+    margin-left: 70px;
+    margin-right: 70px;
+  }
+
+
+  .para{
+    margin-bottom: 770px;
+  }
+  .header .navbar {
+    padding: 30px;
+    margin-top: 10px;
+  }
+
+  .header .navbar .nav-link {
+    color: #333;
+    font-weight: bold;
+  }
+
+  .header .navbar .nav-link:hover {
+    color: #555;
+  }
