@@ -25,8 +25,6 @@ const aboutContent = `Welcome to our website! We are a passionate team dedicated
 
 const contactContent = `We would love to hear from you! Whether you have a question, feedback, or need assistance, our team is here to help. You can reach us through the following contact details:
 
-Email: info@example.com
-Phone: +1 (123) 456-7890
 
 Feel free to get in touch with us at your convenience. We value your input and look forward to serving you.`;
 const categories = [
